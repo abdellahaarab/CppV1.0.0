@@ -53,6 +53,27 @@ int main(){
 }
 
 
+//strucurelle
+// #include <stdio.h>
+
+// int a,b,c;
+
+// int affictation(int x,int y){
+//     // a=x;
+//     // b=y;
+//     // c=a+b;
+//     return x+y;
+// }
+
+// int main()
+// {
+//     c = affictation(5,5);
+//     printf("C = %d",c);
+
+//     return 0;
+// }
+
+
 
 
 
