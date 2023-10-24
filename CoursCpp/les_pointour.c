@@ -4,7 +4,22 @@
 
 int main(){
 
+    // char a = 6;
+    // printf("La adresse de a est : %d \n", &a);
+    
+    // int b;
+    
+    // int *p;
+    // p=&a;
+    
+    // printf("La valoure de *p est : %d \n", *p);
+    
+    // printf("La valoure de *p est : %d \n", p);
+    
+    // *p =17;
 
+    // printf("La adresse de a est : %d \n", a);
+    
     int T[6] = {6,12,4,2,1,80};
     
     int *p;
